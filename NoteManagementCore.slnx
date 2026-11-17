@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="NoteManagementCore/NoteManagementCore.csproj" />
+  <Project Path="NoteManagementCoreTests/NoteManagementCoreTests.csproj" />
+</Solution>
